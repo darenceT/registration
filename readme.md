@@ -11,5 +11,5 @@ Deploy with docker-compose
 nginx on separate docker container  
 gunicorn server  
 
-Website status [online]:  
+Website status: offline    
 http://ec2-3-85-129-195.compute-1.amazonaws.com/  
